@@ -127,6 +127,12 @@ img.social-icon {
   color: #fff;
 }
 
+#lsp img {
+  height: 60vh;
+  margin: 20px auto 0;
+  display: block;
+}
+
 #contact {
   background: #ecf0f1;
   color: #2c3e50;
