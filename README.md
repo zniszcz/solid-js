@@ -1,5 +1,5 @@
-# SOLID w JavaScript\
-## czyli wstęp do dobrych praktyk w programowaniu obiektowym
+# SOLID w JavaScript
+## Czyli wstęp do dobrych praktyk w programowaniu obiektowym
 
 Lightning talk przygotowany na CodeteCon Lublin
 
