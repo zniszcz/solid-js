@@ -137,7 +137,7 @@ img.social-icon {
   margin-bottom: 20px;
 }
 
-#contact ul.links li a {
+#contact a, #contact ul.links li a {
   color: #34495e;
 }
 
@@ -152,4 +152,8 @@ img.social-icon {
   text-align: right;
   color: #ecf0f1;
   background: #2c3e50;
+}
+
+#contact footer.copy a {
+  color: #fff;
 }
